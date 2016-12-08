@@ -44,7 +44,7 @@ contrib: Julio E. Villalon-Reina and Eleftherios Garyfallidis performed the proj
 
 bibliography: brainhack-report
 
-gigascience-ref: REFXXX
+gigascience-ref: \href{http://gigadb.org/dataset/100238}{doi:10.5524/100238}
 ...
 
 #Introduction
